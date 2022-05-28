@@ -1,1 +1,2 @@
 Put all of your Images in this directory!
+Do NOT forget to delete this 'Instructions.txt' file after uploading your images here!
